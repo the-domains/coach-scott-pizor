@@ -1,4 +1,3 @@
-layout_spectrum: 0.7577060821931809
 typography_spectrum: 0.4770883210003376
 color:
   brandStrength: 0.9842733168043196
@@ -11,4 +10,8 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.7577060821931809
+author:
+  name: Scott Pizor
+  email: scottpizor@gmail.com
 name: Coach Scott Pizor
